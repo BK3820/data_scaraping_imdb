@@ -1,0 +1,101 @@
+movie_name,movie_genre,"movie_rating,Run_Time"
+1.The Shawshank Redemption(1994),Drama            ,9.3,142 min
+2.The Godfather(1972),"Crime, Drama            ",9.2,175 min
+3.The Dark Knight(2008),"Action, Crime, Drama            ",9.0,152 min
+4.The Godfather: Part II(1974),"Crime, Drama            ",9.0,202 min
+5.12 Angry Men(1957),"Crime, Drama            ",9.0,96 min
+6.The Lord of the Rings: The Return of the King(2003),"Action, Adventure, Drama            ",8.9,201 min
+7.Pulp Fiction(1994),"Crime, Drama            ",8.9,154 min
+8.Schindler's List(1993),"Biography, Drama, History            ",8.9,195 min
+9.Inception(2010),"Action, Adventure, Sci-Fi            ",8.8,148 min
+10.Fight Club(1999),Drama            ,8.8,139 min
+11.The Lord of the Rings: The Fellowship of the Ring(2001),"Action, Adventure, Drama            ",8.8,178 min
+12.Forrest Gump(1994),"Drama, Romance            ",8.8,142 min
+"13.The Good, the Bad and the Ugly(1966)",Western            ,8.8,178 min
+14.The Lord of the Rings: The Two Towers(2002),"Action, Adventure, Drama            ",8.7,179 min
+15.The Matrix(1999),"Action, Sci-Fi            ",8.7,136 min
+16.Goodfellas(1990),"Biography, Crime, Drama            ",8.7,146 min
+17.Star Wars: Episode V - The Empire Strikes Back(1980),"Action, Adventure, Fantasy            ",8.7,124 min
+18.One Flew Over the Cuckoo's Nest(1975),Drama            ,8.7,133 min
+19.Parasite(2019),"Comedy, Drama, Thriller            ",8.6,132 min
+20.Soorarai Pottru(2020),Drama            ,8.6,153 min
+21.Interstellar(2014),"Adventure, Drama, Sci-Fi            ",8.6,169 min
+22.City of God(2002),"Crime, Drama            ",8.6,130 min
+23.Spirited Away(2001),"Animation, Adventure, Family            ",8.6,125 min
+24.Saving Private Ryan(1998),"Drama, War            ",8.6,169 min
+25.The Green Mile(1999),"Crime, Drama, Fantasy            ",8.6,189 min
+26.Life Is Beautiful(1997),"Comedy, Drama, Romance            ",8.6,116 min
+27.Se7en(1995),"Crime, Drama, Mystery            ",8.6,127 min
+28.The Silence of the Lambs(1991),"Crime, Drama, Thriller            ",8.6,118 min
+29.Star Wars: Episode IV - A New Hope(1977),"Action, Adventure, Fantasy            ",8.6,121 min
+30.Hara-Kiri(1962),"Action, Drama, Mystery            ",8.6,133 min
+31.Seven Samurai(1954),"Action, Adventure, Drama            ",8.6,207 min
+32.It's a Wonderful Life(1946),"Drama, Family, Fantasy            ",8.6,130 min
+33.Hamilton(2020),"Biography, Drama, History            ",8.5,160 min
+34.Raatchasan(2018),"Action, Crime, Thriller            ",8.5,170 min
+35.Whiplash(2014),"Drama, Music            ",8.5,106 min
+36.The Intouchables(2011),"Biography, Comedy, Drama            ",8.5,112 min
+37.The Prestige(2006),"Drama, Mystery, Sci-Fi            ",8.5,130 min
+38.The Departed(2006),"Crime, Drama, Thriller            ",8.5,151 min
+39.The Pianist(2002),"Biography, Drama, Music            ",8.5,150 min
+40.Gladiator(2000),"Action, Adventure, Drama            ",8.5,155 min
+41.American History X(1998),Drama            ,8.5,119 min
+42.The Usual Suspects(1995),"Crime, Mystery, Thriller            ",8.5,106 min
+43.LÃ©on: The Professional(1994),"Action, Crime, Drama            ",8.5,110 min
+44.The Lion King(1994),"Animation, Adventure, Drama            ",8.5,88 min
+45.Terminator 2: Judgment Day(1991),"Action, Sci-Fi            ",8.5,137 min
+46.Cinema Paradiso(1988),"Drama, Romance            ",8.5,155 min
+47.Grave of the Fireflies(1988),"Animation, Drama, War            ",8.5,89 min
+48.Back to the Future(1985),"Adventure, Comedy, Sci-Fi            ",8.5,116 min
+49.Once Upon a Time in the West(1968),Western            ,8.5,165 min
+50.Psycho(1960),"Horror, Mystery, Thriller            ",8.5,109 min
+51.Casablanca(1942),"Drama, Romance, War            ",8.5,102 min
+52.Modern Times(1936),"Comedy, Drama, Family            ",8.5,87 min
+53.City Lights(1931),"Comedy, Drama, Romance            ",8.5,87 min
+54.Capernaum(2018),Drama            ,8.4,126 min
+55.Joker(2019),"Crime, Drama, Thriller            ",8.4,122 min
+56.Ayla: The Daughter of War(2017),"Biography, Drama, History            ",8.4,125 min
+57.Vikram Vedha(2017),"Action, Crime, Drama            ",8.4,147 min
+58.Your Name.(2016),"Animation, Drama, Fantasy            ",8.4,106 min
+59.Dangal(2016),"Action, Biography, Drama            ",8.4,161 min
+60.Spider-Man: Into the Spider-Verse(2018),"Animation, Action, Adventure            ",8.4,117 min
+61.Avengers: Endgame(2019),"Action, Adventure, Drama            ",8.4,181 min
+62.Avengers: Infinity War(2018),"Action, Adventure, Sci-Fi            ",8.4,149 min
+63.Drishyam(2013),"Crime, Drama, Thriller            ",8.4,160 min
+64.Coco(I) (2017),"Animation, Adventure, Family            ",8.4,105 min
+65.Django Unchained(2012),"Drama, Western            ",8.4,165 min
+66.The Dark Knight Rises(2012),"Action, Adventure            ",8.4,164 min
+67.3 Idiots(2009),"Comedy, Drama            ",8.4,170 min
+68.Taare Zameen Par(2007),"Drama, Family            ",8.4,165 min
+69.WALLÂ·E(2008),"Animation, Adventure, Family            ",8.4,98 min
+70.The Lives of Others(2006),"Drama, Mystery, Thriller            ",8.4,137 min
+71.Oldboy(2003),"Action, Drama, Mystery            ",8.4,101 min
+72.Memento(2000),"Mystery, Thriller            ",8.4,113 min
+73.Princess Mononoke(1997),"Animation, Action, Adventure            ",8.4,134 min
+74.Once Upon a Time in America(1984),"Crime, Drama            ",8.4,229 min
+75.Indiana Jones and the Raiders of the Lost Ark(1981),"Action, Adventure            ",8.4,115 min
+76.The Shining(1980),"Drama, Horror            ",8.4,146 min
+77.Apocalypse Now(1979),"Drama, Mystery, War            ",8.4,147 min
+78.Alien(1979),"Horror, Sci-Fi            ",8.4,117 min
+79.High and Low(1963),"Crime, Drama, Mystery            ",8.4,143 min
+80.Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb(1964),Comedy            ,8.4,95 min
+81.Witness for the Prosecution(1957),"Crime, Drama, Mystery            ",8.4,116 min
+82.Paths of Glory(1957),"Drama, War            ",8.4,88 min
+83.Rear Window(1954),"Mystery, Thriller            ",8.4,112 min
+84.Sunset Blvd.(1950),"Drama, Film-Noir            ",8.4,110 min
+85.The Great Dictator(1940),"Comedy, Drama, War            ",8.4,125 min
+86.1917(2019),"Drama, Thriller, War            ",8.3,119 min
+87.Tumbbad(2018),"Drama, Fantasy, Horror            ",8.3,104 min
+88.Andhadhun(2018),"Crime, Drama, Music            ",8.3,139 min
+89.The Hunt(2012),Drama            ,8.3,115 min
+90.A Separation(2011),Drama            ,8.3,123 min
+91.Incendies(2010),"Drama, Mystery, War            ",8.3,131 min
+92.Dara of Jasenovac(2020),"Drama, War            ",8.3,130 min
+93.My Father and My Son(2005),"Drama, Family            ",8.3,112 min
+94.Inglourious Basterds(2009),"Adventure, Drama, War            ",8.3,153 min
+95.Eternal Sunshine of the Spotless Mind(2004),"Drama, Romance, Sci-Fi            ",8.3,108 min
+96.AmÃ©lie(2001),"Comedy, Romance            ",8.3,122 min
+97.Snatch(2000),"Comedy, Crime            ",8.3,102 min
+98.Requiem for a Dream(2000),Drama            ,8.3,102 min
+99.American Beauty(1999),Drama            ,8.3,122 min
+100.Good Will Hunting(1997),"Drama, Romance            ",8.3,126 min
